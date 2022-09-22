@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosefBowman
+- 👋 Howdy, I’m @JosefBowman
 - 👀 I’m interested in 3D Printing and Video Games
 - 🌱 I’m currently learning C#
 
